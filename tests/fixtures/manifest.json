@@ -1,0 +1,31 @@
+﻿{
+    "ffmpeg_version":  "ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers",
+    "fixtures":  [
+                     {
+                         "size_bytes":  5414,
+                         "sha256":  "b6202c188226ba03162aca39825285bed84866f6b7cc12bdef33e9c0896fbade",
+                         "name":  "bframes_30fps.mp4"
+                     },
+                     {
+                         "size_bytes":  69437,
+                         "sha256":  "3c185796a8e966032c5c2c5c634dfd0380072dec5cbeca2450dfb29d2cbbe5b4",
+                         "name":  "cfr_25fps_60frames.mp4"
+                     },
+                     {
+                         "size_bytes":  4363,
+                         "sha256":  "7bf6bd09f533e4e2707ab12c0b743ec8cbab59ac7cad1309b87348e4fbbc229e",
+                         "name":  "cfr_30fps_10frames.mp4"
+                     },
+                     {
+                         "size_bytes":  6443,
+                         "sha256":  "64539530608f5456e56bb53f2f353386552ba8699db09f019960798f4d142da7",
+                         "name":  "vfr_mixed_rate.mp4"
+                     },
+                     {
+                         "size_bytes":  2535309,
+                         "sha256":  "aa682af40af551d87c9a323ea7dcc7fb9bc9e3b1d14dad4dbdf773b386dfba4e",
+                         "name":  "video.mp4"
+                     }
+                 ],
+    "generated_by":  "scripts/generate-fixtures.ps1"
+}
