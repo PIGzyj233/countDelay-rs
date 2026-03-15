@@ -32,7 +32,6 @@ target/
 .claude/
 
 # Internal docs (plans, specs)
-docs/
 
 # FFmpeg SDK: exclude non-essential files
 third_party/ffmpeg/windows-x86_64/bin/ffmpeg.exe
