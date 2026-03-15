@@ -116,4 +116,4 @@ cargo test -p video-worker -- --nocapture test_name
 
 ## 许可证
 
-FFmpeg 部分遵循 GPL v3 许可。
+本项目基于 [GPL-3.0](LICENSE) 许可证开源。

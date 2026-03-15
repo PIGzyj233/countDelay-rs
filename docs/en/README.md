@@ -116,4 +116,4 @@ This project is a vibe coding product, built with [Claude Code](https://claude.a
 
 ## License
 
-FFmpeg components are licensed under GPL v3.
+This project is licensed under [GPL-3.0](../../LICENSE).
